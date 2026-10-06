@@ -1,0 +1,11 @@
+# Core
+numpy>=1.26
+psycopg2-binary>=2.9        # PostgreSQL from Python
+pymongo>=4.6                # MongoDB
+redis>=5.0                  # Redis
+
+# Vectors / AI
+faiss-cpu>=1.8
+chromadb>=0.5
+sentence-transformers>=2.7  # real embeddings (optional: embed.py falls back to a toy embedder)
+anthropic>=0.30             # optional: real LLM answers in Projects 7, 8 and 12

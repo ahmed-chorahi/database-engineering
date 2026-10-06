@@ -1,0 +1,1 @@
+MongoDB stores flexible JSON-like documents inside collections. It is useful when records have different shapes. Related data can be embedded inside one document to avoid joins. The aggregation pipeline processes documents through stages.

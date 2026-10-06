@@ -1,0 +1,1 @@
+An embedding converts text into a vector of numbers. Texts with similar meaning end up close together in vector space. Cosine similarity measures how close two vectors point. Embeddings power semantic search and retrieval augmented generation.

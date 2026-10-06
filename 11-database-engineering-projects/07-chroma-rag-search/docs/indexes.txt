@@ -1,0 +1,1 @@
+An index is a data structure that speeds up lookups. Without an index the database scans every row. B-tree indexes are the default in PostgreSQL. Too many indexes slow down inserts and updates because each index must be maintained.

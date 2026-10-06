@@ -1,0 +1,1 @@
+PostgreSQL is a relational database. Data lives in tables with rows and columns. You query it with SQL. It supports transactions, so a group of changes either fully succeeds or fully fails. Foreign keys connect tables together.

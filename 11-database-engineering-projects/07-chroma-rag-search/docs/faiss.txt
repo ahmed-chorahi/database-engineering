@@ -1,0 +1,1 @@
+FAISS is a library for fast similarity search over vectors. It supports exact search and approximate search. FAISS stores only vectors, so metadata must be kept separately. Approximate indexes trade a little accuracy for large speed gains.

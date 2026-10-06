@@ -1,0 +1,1 @@
+Redis keeps data in memory, which makes reads extremely fast. It is often used as a cache in front of a slower database. Keys can expire automatically using a time to live. Stale cache entries must be invalidated when the source data changes.
